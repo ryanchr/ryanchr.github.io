@@ -36,8 +36,8 @@
         var file_name = "./bitrev_files/per_n" + n_size + "_p" + p_dp + "_w" + w_width + "_idx0.v"
         var tfile_name = "./bitrev_files/per_testbench.v"
 
-        window.open(file_name, 'Download Design File');
-        window.open(tfile_name, 'Download Testbench File');
+        setTimeout(window.open(file_name, 'Download Design File'), 500);
+        setTimeout(window.open(tfile_name, 'Download Testbench File'), 500);
         //alert("Running Bit Reversal Tool, N: " + n_size + " P:" + p_dp + " W:" +w_width + "");
      }
      <!-- function count(){ -->
