@@ -1,0 +1,580 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wirecon",
+				"wireConStageNames"
+			],
+			[
+				"sp",
+				"split"
+			],
+			[
+				"AG",
+				"AGG_pair_num"
+			],
+			[
+				"max_p",
+				"max_phy_hops"
+			],
+			[
+				"graph",
+				"graphInit"
+			],
+			[
+				"push",
+				"push_back"
+			],
+			[
+				"gra",
+				"graph_t"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "research.html",
+			"settings":
+			{
+				"buffer_size": 17463,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "education.html",
+			"settings":
+			{
+				"buffer_size": 9178,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "projects.html",
+			"settings":
+			{
+				"buffer_size": 17035,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contact.html",
+			"settings":
+			{
+				"buffer_size": 7103,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bv_tool.php",
+			"settings":
+			{
+				"buffer_size": 84,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog.html",
+			"settings":
+			{
+				"buffer_size": 5890,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog_content.html",
+			"settings":
+			{
+				"buffer_size": 4654,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 137067,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "install pack",
+		"selected_items":
+		[
+			[
+				"install pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"--help",
+			"help",
+			"diff sssp_rc.cpp sssp.cpp"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/renchen/gdrive/2015_webpage/web_trial1/trial1",
+		"/Users/renchen/gdrive/2015_webpage/web_trial1/trial1/css"
+	],
+	"file_history":
+	[
+		"/Users/renchen/gdrive/2015_webpage/web_trial1/trial1/index.html",
+		"/Users/renchen/gdrive/code/permutation/verilogGen/gressGen.py",
+		"/Users/renchen/gdrive/code/permutation/verilogGen/memGen.py",
+		"/Users/renchen/gdrive/code/permutation/verilogGen/perGen.py",
+		"/Users/renchen/gdrive/code/KSPfirst/benchmark/bench_shortestPath/sssp_rc_backup.cpp",
+		"/Users/renchen/gdrive/code/KSPfirst/benchmark/bench_shortestPath/ksp.cpp",
+		"/Users/renchen/gdrive/code/KSPfirst/benchmark/bench_shortestPath/sssp_rc.cpp",
+		"/Users/renchen/gdrive/code/KSPfirst/benchmark/bench_shortestPath/sssp.cpp",
+		"/Users/renchen/gdrive/code/KSPfirst/benchmark/bench_shortestPath/sssp_backup_parallel.cpp",
+		"/Users/renchen/gdrive/code/ksp/source/Graph.cpp",
+		"/Users/renchen/gdrive/code/ksp/include/Graph.h",
+		"/Users/renchen/gdrive/code/KSPfirst/openG/openG_graph.h",
+		"/Users/renchen/code/KSPfirst/openG/openG_graph.h",
+		"/Users/renchen/gdrive/code/KSPfirst/benchmark/bench_shortestPath/sssp_backup_serial.cpp",
+		"/Users/renchen/gdrive/code/KSPfirst/benchmark/bench_shortestPath/sssp_KSP_looplessAndotherConstraints_bak2.cpp",
+		"/Users/renchen/gdrive/2017_aws/connect_aws",
+		"/Users/renchen/gdrive/code/KSPfirst/openG/openG.h",
+		"/Users/renchen/gdrive/code/KSPfirst/benchmark/bench_shortestPath/sssp_omp.cpp",
+		"/Users/renchen/code/KSPfirst/benchmark/bench_shortestPath/sssp_omp.cpp",
+		"/Users/renchen/code/KSPfirst/openG/openG.h",
+		"/Users/renchen/code/KSPfirst/benchmark/bench_shortestPath/sssp.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"button",
+			"addr_rom_",
+			"counter",
+			"name",
+			"switches_",
+			"wireConStageNames",
+			"switchesCtrlNames",
+			"genAddrGen",
+			"pair",
+			"vector",
+			"agg_cost",
+			"center",
+			"[\\n\\r]+",
+			"[\\n\\t]+",
+			"argument_parser",
+			"cout",
+			"TOPKSP_PRINTOUT",
+			"perf",
+			"top_ksp",
+			"externel_to_internal_id",
+			"externel_to_internel_id",
+			"external_to_internal_id",
+			"external_to_",
+			"graph->",
+			"g->",
+			"g.",
+			"arg_init",
+			"graph",
+			"vfile",
+			"graph",
+			"graph_t",
+			"graph",
+			"internel",
+			"threadnum",
+			";\n",
+			"threadnum",
+			"omp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"agg_pairs_cost",
+			" ",
+			"res_fstream",
+			"graph.",
+			"g.",
+			"g->",
+			"internal"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "research.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7152,
+								6540
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2008.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "education.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3533.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "projects.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17035,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								886,
+								886
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 325.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "contact.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 7103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4382,
+								4279
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1679.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "bv_tool.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "blog.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4628,
+								4628
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1797.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "blog_content.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1500,
+								1500
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 245.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "css/bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 137067,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15545,
+								15551
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 16844.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "web.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
